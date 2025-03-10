@@ -1,0 +1,5 @@
+com\example\reg\exporter\DataExport.class
+com\example\reg\repo\StudentRepo.class
+com\example\reg\controller\StudentController.class
+com\example\reg\entity\Student.class
+com\example\reg\StudentformApplication.class
